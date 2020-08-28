@@ -41,7 +41,7 @@ function setup() {
 
 	box1=new bx(400,655,200,10,{isStatic : true});
 	
-	box_side1=new bx(320,100,20,100,{isStatic : true});
+	box_side1=new bx(320,630,20,100,{isStatic : true});
     box_side2=new bx(480,655,20,100,{isStatic:true});
 
 	Engine.run(engine);
